@@ -1,0 +1,8 @@
+Saya Samuel Nelson berjanji mengerjakan TP2 PBO dengan jujur tanpa kecurangan sesuai yang dispesifikasikan
+
+Hal yang dipelajari:
+- library jdbc
+- layered panel
+- menghubungkan database dengan jdbc
+Kesulitan:
+- Netbeans Tidak ada library JDBC
